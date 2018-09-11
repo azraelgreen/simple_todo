@@ -2,6 +2,7 @@
 # -*- coding:utf-8 -*-
 # Copyright (c) 2018 - Brian Chen <breeze520@outlook.com>
 # version: 1.0
+# import: only works in python2
 # Last modified: 2018-9-11
 
 """ A simple todo list application """
