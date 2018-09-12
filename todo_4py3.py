@@ -1,8 +1,8 @@
 #! /usr/bin/env python3
 # -*- coding:utf-8 -*-
 # Copyright (c) 2018 - Brian Chen <breeze520@outlook.com>
-# version: 1.0
-# import: only works in python3
+# Version: 1.0
+# Important: only works in python3
 # Last modified: 2018-9-12
 
 """ A simple todo list application """
